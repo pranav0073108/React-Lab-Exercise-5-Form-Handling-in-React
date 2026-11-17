@@ -1,7 +1,7 @@
 # React-Lab-Exercise-5-Form-Handling-in-React
 
-## Name : Moulishwar G
-## Register Number : 2305001020
+## Name : PRANAV K
+## Register Number : 2305001026
 
 # Aim
 To develop a simple Student Registration Form using React and handle form input values using the useState Hook.
